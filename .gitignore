@@ -18,3 +18,7 @@ esm
 
 # Test
 coverage
+
+
+#webstorm
+.idea
